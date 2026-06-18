@@ -31,10 +31,10 @@ Menjawab pertanyaan: *"Berdasarkan profil seseorang, berapa estimasi biaya asura
 
 | Model | MAE | R² Score |
 |---|---|---|
-| Linear Regression | $4,177 | 0.807 |
-| Decision Tree | $2,805 | 0.810 |
-| Random Forest | $2,663 | 0.878 |
-| **Gradient Boosting** | **$2,517** | **0.901** |
+| Linear Regression | 4,177 | 0.807 |
+| Decision Tree | 2,805 | 0.810 |
+| Random Forest | 2,663 | 0.878 |
+| **Gradient Boosting** | **2,517** | **0.901** |
 
 Model terbaik (**Gradient Boosting**) mampu menjelaskan **90% variasi** biaya asuransi.
 
